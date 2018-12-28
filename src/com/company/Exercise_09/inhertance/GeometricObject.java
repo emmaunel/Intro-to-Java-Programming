@@ -1,10 +1,10 @@
-package com.company.inhertance;
+package com.company.Exercise_09.inhertance;
 
 import java.util.Date;
 
 public class GeometricObject {
-    private String color = "white";
-    private boolean filled;
+    private String color = "yello";
+    private boolean filled = true;
     private Date dateCreated;
 
     public GeometricObject(){

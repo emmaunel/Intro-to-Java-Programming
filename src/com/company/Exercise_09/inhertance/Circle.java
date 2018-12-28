@@ -1,4 +1,4 @@
-package com.company.inhertance;
+package com.company.Exercise_09.inhertance;
 
 public class Circle extends GeometricObject {
     private double radius;

@@ -1,4 +1,4 @@
-package com.company.Polymorphism;
+package com.company.Exercise_09.Polymorphism;
 
 public class PolymorphismDemo {
     public static void main(String[] args){

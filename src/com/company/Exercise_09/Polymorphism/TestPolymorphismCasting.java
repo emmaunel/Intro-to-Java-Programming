@@ -1,7 +1,7 @@
-package com.company.Polymorphism;
+package com.company.Exercise_09.Polymorphism;
 
-import com.company.inhertance.Circle;
-import com.company.inhertance.Rectangle;
+import com.company.Exercise_09.inhertance.Circle;
+import com.company.Exercise_09.inhertance.Rectangle;
 
 public class TestPolymorphismCasting {
 
