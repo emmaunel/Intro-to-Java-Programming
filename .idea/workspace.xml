@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3640a326-6ed4-4685-9a8c-32f84e431c65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Exercise_09/Exercise_09_03/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Exercise_09/Exercise_09_03/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Exercise_09/Exercise_09_03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Exercise_09/Exercise_09_03/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Exercise_09/Exercise_09_04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Exercise_09/Exercise_09_04/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Exercise_09/Exercise_09_05/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Exercise_09/Exercise_09_05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Exercise_09/Exercise_09_06/Loan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/ArrayList/MyStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/CH9_Exercises/Section92/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/CH9_Exercises/Section92/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/CH9_Exercises/Section95/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/CH9_Exercises/Section95/Faculty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/CH9_Exercises/Section95/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/CH9_Exercises/Section95/MyDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/CH9_Exercises/Section95/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/CH9_Exercises/Section95/Staff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/CH9_Exercises/Section95/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/GUI/CustomFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/Polymorphism/GraduateStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/Polymorphism/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/Polymorphism/PolymorphismDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/Polymorphism/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/Polymorphism/TestPolymorphismCasting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/inhertance/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/inhertance/GeometricObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/inhertance/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/com/company/inhertance/TestCircleRectangle.class" beforeDir="false" />
-    </list>
+    <list default="true" id="3640a326-6ed4-4685-9a8c-32f84e431c65" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -238,7 +206,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546058917498" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546059253109" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
