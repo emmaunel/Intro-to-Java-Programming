@@ -1,15 +1,17 @@
 package com.company.Exercise_10.Exercise_10_03;
 
-
 import com.company.Exercise_10.Topic.Abstract_Classes.GeometricObject;
 
-public class Square extends GeometricObject implements Colorable{
+public class Square extends GeometricObject implements Colorable {
     private double side;
-    public Square(){ }
 
-    public Square(double side){
+    public Square() {
+    }
+
+    public Square(double side) {
         this.side = side;
     }
+
     public Square(String color, boolean filled, double side) {
         super(color, filled);
         this.side = side;
@@ -34,7 +36,7 @@ public class Square extends GeometricObject implements Colorable{
     }
 
     @Override
-    public void howToColor() {
-        System.out.println("Color all sides");
+    public String  howToColor() {
+        return ("Color all the sides");
     }
 }

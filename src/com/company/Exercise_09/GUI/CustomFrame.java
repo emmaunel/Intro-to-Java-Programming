@@ -6,7 +6,7 @@ import java.awt.*;
 public class CustomFrame extends JFrame {
 
     public CustomFrame(){
-        //Set FlowLayout for the frame
+        //Set FlowLayoutExercise for the frame
         FlowLayout layout = new FlowLayout();
         setLayout(layout);
 

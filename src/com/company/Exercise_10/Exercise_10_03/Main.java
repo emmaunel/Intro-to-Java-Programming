@@ -13,8 +13,7 @@ public class Main {
         for (int i = 0; i < squares.length; i++) {
             System.out.println("\nSquare #" + (i + 1));
             System.out.println("Area: " + squares[i].getArea());
-            // TODO: 2018-12-28 Fix this
-//            System.out.println("How to color: " + ((GeometricObject)squares).howToColor());
+            System.out.println("How to color: " + ((Square)squares[i]).howToColor());
         }
     }
 }

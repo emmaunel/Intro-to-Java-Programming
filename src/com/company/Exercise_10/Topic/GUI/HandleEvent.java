@@ -15,10 +15,10 @@ public class HandleEvent extends JFrame {
         add(ok);
         add(cancel);
 
-        OKListner listner = new OKListner();
-        CancelListner listner1 = new CancelListner();
-        ok.addActionListener(listner);
-        cancel.addActionListener(listner1);
+        OKListener listener = new OKListener();
+        CancelListener listener1 = new CancelListener();
+        ok.addActionListener(listener);
+        cancel.addActionListener(listener1);
 
     }
 
@@ -31,7 +31,7 @@ public class HandleEvent extends JFrame {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
     }
-    class OKListner implements ActionListener{
+    class OKListener implements ActionListener{
 
         @Override
         public void actionPerformed(ActionEvent e) {
@@ -39,7 +39,7 @@ public class HandleEvent extends JFrame {
         }
     }
 
-    class CancelListner implements ActionListener{
+    class CancelListener implements ActionListener{
 
         @Override
         public void actionPerformed(ActionEvent e) {
