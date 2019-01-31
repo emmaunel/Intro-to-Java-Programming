@@ -1,6 +1,6 @@
 package com.company.Exercise_10.Topic;
 
-public class GenericSort {
+public class GenericSort{
     public static void main(String[] args){
         Integer[] intArray = {2, 4, 3};
         Double[] doubles = {3.4, 1.3, -22.1};
